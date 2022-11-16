@@ -1,0 +1,23 @@
+{
+  "name": "curso-api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "curso practico de consumo de api practico",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilferandres/curso-api-rest-javascript-practico.git"
+  },
+  "keywords": [
+    "wilfer",
+    "andres"
+  ],
+  "author": "wilfer andres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilferandres/curso-api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/wilferandres/curso-api-rest-javascript-practico#readme"
+}

@@ -12,7 +12,7 @@ function navigator(){
        categoriesPage();
     }else{
         homePage();
-    }
+    } 
 }
 
 function homePage(){

@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/wilferandres/curso-api-rest-javascript-practico/issues"
   },
-  "homepage": "https://github.com/wilferandres/curso-api-rest-javascript-practico#readme"
+  "homepage": "https://github.com/wilferandres/curso-api-rest-javascript-practico#readme",
+
+  "dependencies":{
+    "mongoose": "^5.8.2"
+
+  }
 }
